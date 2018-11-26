@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+    <Pause length="5"/>
+{#    <Say voice="woman" language="ja-JP">#}
+{#        ご利用ありがとうございます。電話システムです#}
+{#    </Say>#}
+    <Reject reason="busy" />
+</Response>
